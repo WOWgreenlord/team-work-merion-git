@@ -2,3 +2,10 @@
     margin: 0;
     padding: 0;
 }
+
+.coolBtn {
+    padding: 15px;
+    background-color: rgb(108, 157, 108);
+    border: none;
+    outline: none;
+}
